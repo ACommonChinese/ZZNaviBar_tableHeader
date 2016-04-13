@@ -1,7 +1,6 @@
 # ZZNaviBar_tableHeader
 
 **导航条透明、tableView头部视图缩放**  
-访照其他第三方总结
 
 效果图：
 
@@ -33,3 +32,6 @@ table view 头视图：
 #import "UITableView+ZZStretchableHeader.h"
 self.tableView.headerViewStretchable = YES;
 ```
+
+参考链接：  
+<https://github.com/hfrahmann/HFStretchableTableHeaderView>
